@@ -6,7 +6,7 @@ As a member of the software profession, a practitioner must recognize responsibi
 
 I am a software professional, and as such I strive to uphold the following principles:
 
-**I.** I am dedicated to providing competent software services, with respect for my clients, their users and my peers resources, dignity and rights.
+**I.** I am dedicated to providing software services, with respect for the resources, dignity & rights of my clients, their users & my peers.
 
 **II.** I uphold the standards of professionalism, am honest in all professional interactions, and strive to help and eventually report practitioners deficient in character or competence, or engaging in fraud or deception, to appropriate entities.
 
