@@ -2,9 +2,7 @@
 
 **Preamble.**
 
-As a member of the software profession, a practitioner must recognize responsibility to users first and foremost, to his/her clients, as well as to society, to other software professionals, and to self. The following Principles are not laws, but standards of conduct which define the essentials of honorable behavior for the practitioner.
-
-I am a software professional, and as such I strive to uphold the following principles:
+As a software practitioner, I freely chose to uphold the following principles of honorable behavior and will strive to make them a reality for the betterment of our profession.
 
 **I.** I am dedicated to providing software services, with respect for the resources, dignity & rights of my clients, their users & my peers.
 
@@ -23,8 +21,6 @@ I am a software professional, and as such I strive to uphold the following princ
 **VIII.** While caring for a third party, I regard responsibility to the users as paramount.
 
 **IX.** I support access to software for all people.
-
-I freely chose to uphold those principles for the betterment of our profession and our world. I will strive to make them a reality everywhere I go.
 
 # License
 SPECC is released under GNU GENERAL PUBLIC LICENSE Version 3
