@@ -4,23 +4,23 @@
 
 As a software practitioner, I freely chose to uphold the following principles of honorable behavior and will strive to make them a reality for the betterment of our profession.
 
-**I.** I am dedicated to providing software services, with respect for the resources, dignity & rights of my clients, their users & my peers.
+**I.** I recognize multiple stakeholders: my clients, their users and my peers.
 
-**II.** I uphold the standards of professionalism, am honest in all professional interactions, and strive to help and eventually report practitioners deficient in character or competence, or engaging in fraud or deception, to appropriate entities.
+**II.** I am dedicated to providing software services, with respect for the resources, dignity & rights of all stakeholders.
 
-**III.** I respect the law and also recognize a responsibility to seek changes in those requirements which are contrary to the best interests of my clients, their users and my peers.
+**III.** I regard the well being of the people I work with as non negotiable.
 
-**IV.** I respect the rights of my clients, their users and my peers, and shall safeguard confidences and privacy within the constraints of the law.
+**IV.** While caring for a third party, I regard my responsibility to the user as paramount.
 
-**V.** I continue to study, apply, and advance scientific knowledge, maintain a commitment to software education, make relevant information available to my clients, their users, my peers, and the public, obtain consultation, and use the talents of other software professionals when indicated.
+**V.** I recognize a responsibility when faced with requirements which are contrary to a stakeholder's best interests.
 
-**VI.** In the provision of appropriate care, except in emergencies, I am free to choose whom to serve, with whom to associate, and the environment in which to provide my software services.
+**VI.** I will safeguard confidences and privacy within the constraints of the law.
 
-**VII.** I recognize a responsibility to participate in activities contributing to the improvement of the community and the betterment of software.
+**VII.** I strive to provide sustainable solutions in every aspect of my work.
 
-**VIII.** While caring for a third party, I regard responsibility to the users as paramount.
+**VIII.** I strive to participate in activities contributing to the improvement of the software industry.
 
-**IX.** I support access to software for all people.
+**IX.** I commit myself to sharing my knowledge and helping my peers advance on their journey.
 
 # License
 SPECC is released under GNU GENERAL PUBLIC LICENSE Version 3
